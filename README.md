@@ -1,3 +1,10 @@
+# CD_MEAN_Angular_RegistrationForm
+Troy Center troycenter1@gmail.com July 2017
+
+Create a registration form which includes validations for each input as shown in the wireframe. Register button should be disabled until we pass all validations, upon a successful submission, present the user with the success message above the Account Information (reference the wireframe).
+
+<img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Angular-Registration.png" alt="Coding Dojo Assignment Image">
+
 # Registrationform
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
