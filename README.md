@@ -3,7 +3,7 @@ Troy Center troycenter1@gmail.com July 2017
 Coding Dojo MEAN stack, Angular Fundamentals, Layout assignment
 
 ## Layout
-Replicate the following wireframe layout. Remember, each component holds it's own content, so each component should have it's own styling.
+Replicate the following wireframe layout. Remember, each component holds it's own content, so each component should have it's own styling. 
 
 <img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Angular-Layout.png" alt="Coding Dojo Assignment Image">
 
