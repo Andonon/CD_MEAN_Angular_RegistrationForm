@@ -1,5 +1,5 @@
 # CD_MEAN_Angular_RegistrationForm
-Troy Center troycenter1@gmail.com July 2017
+Troy Center troycenter1@gmail.com July 2017 
 
 Create a registration form which includes validations for each input as shown in the wireframe. Register button should be disabled until we pass all validations, upon a successful submission, present the user with the success message above the Account Information (reference the wireframe).
 
